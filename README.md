@@ -12,12 +12,6 @@ Job Board project how to run
 
     http://localhost:3000
 
-<img width="1897" height="968" alt="Screenshot 2025-07-17 000236" src="https://github.com/user-attachments/assets/ba96fdbd-e337-4bae-800f-1a06c2655869" />
-
-<img width="1900" height="964" alt="Screenshot 2025-07-17 000256" src="https://github.com/user-attachments/assets/d18d545c-8aa9-464a-a652-e536a81ffa37" />
-    
-<img width="1919" height="1024" alt="Screenshot 2025-07-17 000335" src="https://github.com/user-attachments/assets/b720a77f-1f08-43be-a2e1-94ae120ee9da" />
-
     cd..
 
     cd server
@@ -45,12 +39,18 @@ Level 2 Task 2  Quiz Game how to run
 
     http://localhost:3000
 
+<img width="1897" height="968" alt="Screenshot 2025-07-17 000236" src="https://github.com/user-attachments/assets/ba96fdbd-e337-4bae-800f-1a06c2655869" />
+
+<img width="1900" height="964" alt="Screenshot 2025-07-17 000256" src="https://github.com/user-attachments/assets/d18d545c-8aa9-464a-a652-e536a81ffa37" />
+    
+<img width="1919" height="1024" alt="Screenshot 2025-07-17 000335" src="https://github.com/user-attachments/assets/b720a77f-1f08-43be-a2e1-94ae120ee9da" />
+
     cd..
 
     cd backend
 
     npm install
 
-    npm run dev
+    npm start
 
     http://localhost:5000
