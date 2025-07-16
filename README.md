@@ -1,8 +1,8 @@
 # CODSOFT
 
-Job Board project how to run
+                                                                                           Job Board project how to run
 
-cd Level 2 Task 1  Job Board
+@ cd Level 2 Task 1  Job Board
 
 cd client
 
@@ -21,3 +21,11 @@ npm install
 npm run dev
 
 http://localhost:3000
+
+
+
+
+
+
+
+                                                                                             Level 2 Task 1  Job Board
