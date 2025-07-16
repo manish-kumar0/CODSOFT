@@ -27,9 +27,9 @@ Job Board project how to run
 
 
 
-Level 2 Task 1  Job Board how to run
+Level 2 Task 2  Quiz Game how to run
 
-    cd Level 2 Task 1  Job Board
+    cd Level 2 Task 2  Quiz Game
    
     cd frontend
     
